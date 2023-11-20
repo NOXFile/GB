@@ -1,5 +1,5 @@
 titleDialog=
 descriptionDialog=
 btnText=
-btnLink=
+btnLink=hi
 prefAlertDialog=gbpro_custom_notification_check_0
